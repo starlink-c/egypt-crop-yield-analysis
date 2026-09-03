@@ -73,11 +73,11 @@ The dataset covers Egypt's agricultural data from 1990 to 2024.
 
 ## 🖼️ Dashboard Preview
 
+![image alt](https://github.com/starlink-c/egypt-crop-yield-analysis/blob/5d6d512c334d9560b2b5cf34a3634e1a6e966f1c/Image.png)
 
+## 🔗 Interactive Dashboard 
 
-## 📂 Project Files
-
-- `Egypt Crop Yield.pbix` — Power BI dashboard file.
+[**Explore the Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiYTk5ZjdjNjQtZmVkNy00ZGJkLWFhMDItMzQ0OWFjNTZlNDJlIiwidCI6ImVhZjYyNGM4LWEwYzQtNDE5NS04N2QyLTQ0M2U1ZDc1MTZjZCIsImMiOjh9)
 
 ## 📌 Conclusion
 

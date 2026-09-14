@@ -1,12 +1,12 @@
 # Egypt Agriculture & Crop Yield Analysis (1990–2024)
 
-## 📊 Project Overview
+## Project Overview
 
 This Power BI project analyzes Egypt's agricultural production, crop yield, and harvested area from 1990 to 2024.
 
 The dashboard explores long-term production trends, compares crop performance, and examines the relationship between production and harvested area.
 
-## 🎯 Objectives
+## Objectives
 
 - Analyze agricultural production trends over time.
 - Compare crop performance based on production and yield.
@@ -15,14 +15,14 @@ The dashboard explores long-term production trends, compares crop performance, a
 - Explore the relationship between production and harvested area.
 - Track year-over-year changes in key agricultural metrics.
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 - Power BI
 - Power Query
 - Data Visualization
 - Data Analysis
 
-## 📈 Dashboard Features
+## Dashboard Features
 
 - Total Production
 - Average Yield
@@ -33,7 +33,7 @@ The dashboard explores long-term production trends, compares crop performance, a
 - Production vs. Area Harvested
 - Interactive Crop and Year Filters
 
-## 💡 Key Insights
+## Key Insights
 
 ### 1. Long-Term Production Growth
 
@@ -57,7 +57,7 @@ The differences in yield between crops highlight the importance of productivity,
 
 The dashboard shows considerable differences between crops in production, yield, and harvested area, making crop-level comparison important for understanding agricultural performance.
 
-## 📌 Key Metrics
+## Key Metrics
 
 | Metric | Value |
 |---|---:|
@@ -65,21 +65,21 @@ The dashboard shows considerable differences between crops in production, yield,
 | Average Yield | 14.9K |
 | Total Area Harvested | 176.2M |
 
-## 🗂️ Dataset
+## Dataset
 
 The dataset covers Egypt's agricultural data from 1990 to 2024.
 
 **Source:** FAOSTAT dataset accessed through Kaggle.
 
-## 🖼️ Dashboard Preview
+## Dashboard Preview
 
 ![image alt](https://github.com/starlink-c/egypt-crop-yield-analysis/blob/5d6d512c334d9560b2b5cf34a3634e1a6e966f1c/Image.png)
 
-## 🔗 Interactive Dashboard 
+## Interactive Dashboard 
 
 [**Explore the Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiYTk5ZjdjNjQtZmVkNy00ZGJkLWFhMDItMzQ0OWFjNTZlNDJlIiwidCI6ImVhZjYyNGM4LWEwYzQtNDE5NS04N2QyLTQ0M2U1ZDc1MTZjZCIsImMiOjh9)
 
-## 📌 Conclusion
+## Conclusion
 
 This project demonstrates the use of Power BI to transform agricultural data into an interactive analytical dashboard.
 

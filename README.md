@@ -31,7 +31,6 @@ The dashboard explores long-term production trends, compares crop performance, a
 - Production Trend Over Time
 - Top Performing Crops
 - Production vs. Area Harvested
-- Interactive Crop and Year Filters
 
 ## Key Insights
 
